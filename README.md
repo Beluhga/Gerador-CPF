@@ -26,6 +26,8 @@ cd Gerador-CPF
 npm i
 extensao do vscode: live server
 Pasta Public
+
+#Precisa criar um banco de dados no mongoDB em AWS
 ```
 
 ![extensão do vs code](https://github.com/user-attachments/assets/b63fe2a1-b43a-421d-8caa-9f7276263cca)
