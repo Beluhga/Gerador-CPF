@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 Este é um gerador simples e eficiente de números de CPF (Cadastro de Pessoas Físicas) em javascript. Ideal para testes de software, simulações e desenvolvimento, este aplicativo permite a criação de números de CPF válidos que seguem o formato e as regras estabelecidas pela Receita Federal Brasileira.
-## Layout mobile
+## Layout Front-end
 ![ao reiniciar a pagina ele envia um novo cpf](https://github.com/user-attachments/assets/888d8c5d-85f7-483d-abc9-4f59b7c9e196)
 
 ## Recursos Principais e tecnologia:
@@ -27,7 +27,7 @@ npm i
 extensao do vscode: live server
 Pasta Public
 
-#Precisa criar um banco de dados no mongoDB em AWS
+
 ```
 
 ![extensão do vs code](https://github.com/user-attachments/assets/b63fe2a1-b43a-421d-8caa-9f7276263cca)
