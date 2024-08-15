@@ -17,7 +17,7 @@ Este é um gerador simples e eficiente de números de CPF (Cadastro de Pessoas F
 
 ```bash
 # clonar repositório - clone repository
-git clone https://github.com/Beluhga/Fleet.git
+git clone https://github.com/Beluhga/Gerador-CPF.git
 
 # entrar na pasta do projeto
 cd Gerador-CPF
